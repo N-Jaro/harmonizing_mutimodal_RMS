@@ -51,10 +51,10 @@ This project uses Python 3. Key libraries are listed below and should be include
 
 ### Running the Notebook
 
-The `test_patch_processing.ipynb` notebook provides a complete demonstration of the data preparation pipeline.
+The `harmonizing_multimodal_RMS.ipynb` notebook provides a complete demonstration of the data preparation pipeline.
 
 1.  Launch Jupyter Notebook or JupyterLab.
-2.  Open `test_patch_processing.ipynb`.
+2.  Open `harmonizing_multimodal_RMS.ipynb`.
 3.  Run the first code cell ("Step 0: Download and Prepare Data") to automatically download and extract the sample dataset.
 4.  Run the subsequent cells to walk through the entire data processing workflow from start to finish.
 
@@ -76,4 +76,4 @@ This data processing pipeline was developed in support of a larger research proj
 
 ## License
 
-This project is licensed under the MIT License - see the `LICENSE.md` file for details.
+This project is licensed under the MIT License
