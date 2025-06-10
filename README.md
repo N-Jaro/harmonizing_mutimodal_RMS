@@ -8,7 +8,7 @@ This repository provides a Python-based pipeline for processing and harmonizing 
 
 Integrating remote sensing data from different sensors (e.g., DEM, SAR, Optical) is challenging due to variations in spatial resolution, data types, and structures. This repository offers a solution by providing a robust workflow to create analysis-ready datasets without degrading data quality through resampling.
 
-The core of this repository is the `test_patch_processing.ipynb` Jupyter Notebook, which provides a step-by-step demonstration of the entire pipeline.
+The core of this repository is the `harmonizing_multimodal_RMS.ipynb` Jupyter Notebook, which provides a step-by-step demonstration of the entire pipeline.
 
 ### Key Features
 
