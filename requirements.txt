@@ -1,0 +1,8 @@
+numpy
+matplotlib
+requests
+zipfile
+rasterio
+geopandas
+shapely
+pyproj
