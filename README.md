@@ -26,9 +26,6 @@ The pipeline follows a logical sequence of steps to transform raw, multi-resolut
 3.  **Generate Patch Centers:** A systematic grid of points is generated across the study area. These points are then filtered to keep only those within the defined boundary, ensuring all future patches are relevant.
 4.  **Extract Aligned Patches:** For each valid center point, a data patch of a fixed pixel size (e.g., 224x224) is extracted from each raster source. This is done at the raster's native resolution.
 
-![Native Resolution Extraction](https://i.imgur.com/uRjB5yK.png)
-*This diagram illustrates the core method: patches from a 10m raster and a 30m raster have the same pixel dimensions but cover different real-world areas, yet are perfectly aligned by their center point.*
-
 ## Getting Started
 
 ### Prerequisites
